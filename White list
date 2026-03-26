@@ -4,7 +4,6 @@ return {
     ["MHZ_XxtopsxX"] = true,
     ["killer_nair"] = true,
     ["supercloud_sabe2110"] = true,
-    ["Johnax7_12"] = true,
     ["Mex_ej"] = true,
     ["pro_pro1382"] = true,
     ["elmaspro8667jf"] = true,
@@ -33,7 +32,6 @@ return {
     ["cesar5v6"] = true,
     ["THEKINGOAT011"] = true,
     ["JMK_NUGGET"] = true,
-    ["Tupapa090916"] = true,
     ["RD_LACABRA0880"] = true,
     ["xX666NICO666Xx"] = true,
     ["Nicolas051638"] = true,
@@ -41,5 +39,6 @@ return {
     ["isa092237"] = true,
     ["Streal_brainrot22"] = true,
     ["tu_nometecabra909"] = true,
-    ["wuiy7870"] = true
+    ["wuiy7870"] = true,
+    ["Yeiner1283"] = true
 }
