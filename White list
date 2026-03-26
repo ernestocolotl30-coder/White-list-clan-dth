@@ -4,7 +4,7 @@ return {
     ["MHZ_XxtopsxX"] = true,
     ["killer_nair"] = true,
     ["supercloud_sabe2110"] = true,
-    ["Mex_ej"] = true,
+    ["loxa214"] = true,
     ["pro_pro1382"] = true,
     ["elmaspro8667jf"] = true,
     ["de_manygaty123"] = true,
@@ -39,5 +39,4 @@ return {
     ["isa092237"] = true,
     ["Streal_brainrot22"] = true,
     ["tu_nometecabra909"] = true,
-    ["loxa214"] = true,
 }
